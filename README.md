@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lubna
 
-🌱 I’m a Junior System Engineer, learning and building DevOps projects.  
+🌱 I’m a Junior System Engineer, advancing and building DevOps projects.  
 🚀 Passionate about Docker, Jenkins, Kubernetes, and Cloud Automation.  
 💻 Currently working on MySQL → Kafka → Oracle Data Pipeline.  
 🎯 Goal: Become a Remote DevOps Engineer.  

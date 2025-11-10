@@ -1,24 +1,20 @@
 # Hi there 👋, I'm Lubna
 
 🌱 I’m a Junior System Engineer, advancing and building DevOps projects.  
-🚀 Passionate about Docker, Jenkins, Kubernetes, and Cloud Automation.  
-💻 Currently working on MySQL → Kafka → Oracle Data Pipeline.  
-🎯 Goal: Become a Remote DevOps Engineer.  
+🚀 Passionate about Docker, Kubernetes, and Automation.  
+💻 Currently working on Database Migration MySQL → Kafka → Oracle Data Pipeline.  
 
 ## 🛠️ Skills
 - **Operating Systems:** Linux, Ubuntu
 - **DevOps Tools:** Docker, Jenkins, Kafka, Kubernetes (learning)
-- **Databases:** MySQL, Oracle
+- **Databases:** MySQL, Oracle, PostgreSQL
 - **Version Control:** Git, GitHub
 
 ## 📂 Projects
 Here are a few projects I’m working on:
 - 🔄 Dockerized MySQL to Oracle Pipeline
 - 🌐 NGINX Docker Deployment
-- ⚙️ Jenkins CI/CD Pipeline Demo
-- ☸️ Kubernetes Deployment Practice
 
-📫 Reach me at: your_email@example.com  
 🌍 Location: Dhaka, Bangladesh
 
 
